@@ -1,5 +1,5 @@
 ---
-## A. Personal Introduction
+## 👤 A. Personal Introduction
 ---
 I am a BSc Computer Science Honours student at the University of the Western Cape, having completed my undergraduate degree in 2025.
 I am an aspiring software developer with strong foundations in Java, Python, and C, eager to apply my technical skills to real-world systems and impactful projects. I am motivated by continuous learning, research-driven problem solving, and collaborative teamwork.
@@ -9,7 +9,7 @@ My career goal is to build innovative, secure, and scalable software systems tha
 
 
 ---
-## B. Education
+## 🎓 B. Education
 ---
 ### BSc Computer Science Honours (Current)
 University of the Western Cape, South Africa  
@@ -53,7 +53,7 @@ Coursework:
 - Year Completed: 2019
 
 ---
-## C. Skills & Interests
+## 🛠️ C. Skills & Interests
 ---
 ###  Technical Skills
 - Python
@@ -85,7 +85,7 @@ Coursework:
 
 ---
 
-## D. Projects & Competitions
+## 🚀 D. Projects & Competitions
 ---
 ###  Cypher Game (Mathematical Puzzle / Spy Game)
 Role: Developer  
@@ -143,7 +143,7 @@ Impact of Two Methods for Estimating Volatility in Option Pricing
 
 
 ---
-## E. Publications
+##  📚E. Publications
 ---
 **Co-Author**
 
@@ -153,7 +153,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 
 
 
-## F. Affiliations & Memberships
+##  🤝F. Affiliations & Memberships
 ---
 - Honours Student – Department of Computer Science, University of the Western Cape
 - Academic Tutor (Mathematics & Physics)
@@ -178,7 +178,11 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 - Mathematics Outreach Volunteer (2024 & 2025)
 
 ---
-##  Connect With Me
+##  📫Connect With Me
 
-- Email: manolavhelani@gmail.com /4165489@myuwc.ac.za
-- LinkedIn: https://www.linkedin.com/in/lavhelani-mano-50aa651a9
+## 📫 Contact
+
+- 📧 Personal: [manolavhelani@gmail.com](mailto:manolavhelani@gmail.com)  
+- 🎓 University: [4165489@myuwc.ac.za](mailto:4165489@myuwc.ac.za)  
+- 💼 LinkedIn: [Lavhelani Mano](https://www.linkedin.com/in/lavhelani-mano-50aa651a9)
+
