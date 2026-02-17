@@ -180,9 +180,14 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 ---
 ##  📫Connect With Me
 
-## 📫 Contact
-
 - 📧 Personal: [manolavhelani@gmail.com](mailto:manolavhelani@gmail.com)  
 - 🎓 University: [4165489@myuwc.ac.za](mailto:4165489@myuwc.ac.za)  
 - 💼 LinkedIn: [Lavhelani Mano](https://www.linkedin.com/in/lavhelani-mano-50aa651a9)
+
+
+![Honours Researcher](https://img.shields.io/badge/Honours-Researcher-blue?style=for-the-badge)
+![IoT Systems](https://img.shields.io/badge/Focus-IoT_Systems-success?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Interest-Cybersecurity-critical?style=for-the-badge)
+
+[![Research Profile](https://img.shields.io/badge/Research-SSRN_Profile-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614)
 
