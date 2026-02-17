@@ -1,7 +1,3 @@
-
-
-## A. Personal Introduction
-
 ## A. Personal Introduction
 
 I am a BSc Computer Science Honours student at the University of the Western Cape, having completed my undergraduate degree in 2025.
