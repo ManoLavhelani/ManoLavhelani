@@ -1,15 +1,15 @@
 ## A. Personal Introduction
-
+---
 I am a BSc Computer Science Honours student at the University of the Western Cape, having completed my undergraduate degree in 2025.
 I am an aspiring software developer with strong foundations in Java, Python, and C, eager to apply my technical skills to real-world systems and impactful projects. I am motivated by continuous learning, research-driven problem solving, and collaborative teamwork.
 With experience in academic tutoring (including MAT212 & MAM115) and leadership roles within university societies, I have developed strong communication, organisational, and analytical skills.
 I am particularly passionate about software design, Internet of Things (IoT), cybersecurity, robotics, and emerging technologies, and I aim to contribute innovative ideas and dedication within dynamic and forward-thinking environments.
 My career goal is to build innovative, secure, and scalable software systems that combine intelligent technologies with practical real-world impact.
 
----
+
 
 ## B. Education
-
+---
 ### BSc Computer Science Honours (Current)
 University of the Western Cape, South Africa  
 
@@ -20,7 +20,7 @@ Focus Areas:
 - Systems Design
 - Research & Technical Writing
 
----
+
 
 ### BSc Computer Science
 University of the Western Cape, South Africa  
@@ -44,17 +44,16 @@ Coursework:
 - Machine Learning
 - Systems Design
 - Mathematical Modelling
--  Introduction to Databases
----
+- Introduction to Databases
 
-### National Senior Certificate (Matric – Bachelor’s Pass)
-BASA Combined School  
 
-Year Completed: 2019
----
+### National Senior Certificate (Matric – Bachelor’s Pass):
+- BASA Combined School  
+- Year Completed: 2019
+
 
 ## C. Skills & Interests
-
+---
 ###  Technical Skills
 - Python
 - Java
@@ -86,14 +85,14 @@ Year Completed: 2019
 ---
 
 ## D. Projects & Competitions
-
+---
 ###  Cypher Game (Mathematical Puzzle / Spy Game)
 Role: Developer  
 - Designed and implemented a mathematical logic-based puzzle game.
 - Focused on algorithm design and structured programming.
 - Encouraged analytical reasoning and problem-solving.
 
----
+
 
 ### Black Carbon Sensor & Machine Learning Dashboard  
  Winner – Xylem Innovation Challenge 2025  
@@ -104,7 +103,7 @@ Role: System Developer & ML Contributor
 - Built a real-time monitoring dashboard.
 - Integrated machine learning techniques for environmental trend analysis.
 
----
+
 
 ### Smart Greenhouse Monitoring System
 Role: Developer  
@@ -115,7 +114,7 @@ Role: Developer
   - Light intensity detection
 - Developed real-time environmental data tracking.
 
----
+
 
 ###  Epidemiological Modelling Research (MAT312)
 
@@ -128,7 +127,7 @@ A Modified SIR Model Incorporating Vaccination and Dual Infectious Classes for D
 - Applied mathematical modelling and differential equation analysis.
 - Conducted computational simulations for model validation.
 
----
+
 
 ###  Financial Modelling Research (MAT322)
 
@@ -141,20 +140,20 @@ Impact of Two Methods for Estimating Volatility in Option Pricing
 - Analysed the impact of volatility assumptions on pricing accuracy.
 - Implemented computational simulations for evaluation.
 
----
+
 
 ## E. Publications
-
+---
 **Co-Author**
 
 An AI-Supported Sustainability Readiness Framework for Small Satellite Programs in Emerging Nations  
 Published on SSRN  
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614  
 
----
+
 
 ## F. Affiliations & Memberships
-
+---
 - Honours Student – Department of Computer Science, University of the Western Cape
 - Academic Tutor (Mathematics & Physics)
 - Xylem Innovation Challenge Winner (2025)
@@ -177,7 +176,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 - IT Outreach Volunteer (2024 & 2025)
 - Mathematics Outreach Volunteer (2024 & 2025)
 
-
+---
 ##  Connect With Me
 
 - Email: manolavhelani@gmail.com /4165489@myuwc.ac.za
