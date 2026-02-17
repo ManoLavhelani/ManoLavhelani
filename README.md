@@ -1,3 +1,4 @@
+---
 ## A. Personal Introduction
 ---
 I am a BSc Computer Science Honours student at the University of the Western Cape, having completed my undergraduate degree in 2025.
@@ -7,7 +8,7 @@ I am particularly passionate about software design, Internet of Things (IoT), cy
 My career goal is to build innovative, secure, and scalable software systems that combine intelligent technologies with practical real-world impact.
 
 
-
+---
 ## B. Education
 ---
 ### BSc Computer Science Honours (Current)
@@ -51,7 +52,7 @@ Coursework:
 - BASA Combined School  
 - Year Completed: 2019
 
-
+---
 ## C. Skills & Interests
 ---
 ###  Technical Skills
@@ -141,7 +142,7 @@ Impact of Two Methods for Estimating Volatility in Option Pricing
 - Implemented computational simulations for evaluation.
 
 
-
+---
 ## E. Publications
 ---
 **Co-Author**
