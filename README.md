@@ -110,14 +110,25 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 
 ## F. Affiliations & Memberships
 
-- Honours Student – Department of Computer Science, UWC
+- Honours Student – Department of Computer Science, University of the Western Cape
 - Academic Tutor (Mathematics & Physics)
 - Xylem Innovation Challenge Winner (2025)
 - Research Contributor
 
----
+### Leadership & Community Engagement
+
+- Emerging Leaders Programme (ELP) – 2024
+- Advanced Leaders Programme (ALP) – 2025
+
+### Volunteering & Outreach (2024 – Current)
+
+- Cape Flats Nature Reserve Volunteer (2024 – Current)
+- MegaMaths Volunteer (2025)
+- IT Outreach Volunteer (2024 & 2025)
+- Mathematics Outreach Volunteer (2024 & 2025)
+
 
 ## 📫 Connect With Me
 
-- Email: manolavhelani@gmail.com
+- Email: manolavhelani@gmail.com /4165489@myuwc.ac.za
 - LinkedIn: (Add your LinkedIn profile link)
