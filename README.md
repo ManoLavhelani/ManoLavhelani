@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lavhelani Mano
+
 
 ## A. Personal Introduction
 
@@ -42,14 +42,14 @@ Key Areas of Study:
 - Data Analysis
 - Remote Sensing & Environmental Monitoring
 
-### 🔐 Interests
+###  Interests
 - Internet of Things (IoT)
 - Cybersecurity & System Defense
 - Artificial Intelligence
 - Financial Modelling
 - Intelligent Environmental Monitoring Systems
 
-### 🤝 Soft Skills
+###  Soft Skills
 - Analytical thinking
 - Research writing
 - Problem solving
@@ -60,7 +60,7 @@ Key Areas of Study:
 
 ## D. Projects & Competitions
 
-### 🕵️ Cypher Game (Mathematical Puzzle / Spy Game)
+###  Cypher Game (Mathematical Puzzle / Spy Game)
 Role: Developer  
 - Designed and implemented a mathematical logic-based puzzle game.
 - Focused on algorithm design and structured programming.
@@ -68,8 +68,8 @@ Role: Developer
 
 ---
 
-### 🌫️ Black Carbon Sensor & Machine Learning Dashboard  
-🏆 Winner – Xylem Innovation Challenge 2025  
+### Black Carbon Sensor & Machine Learning Dashboard  
+ Winner – Xylem Innovation Challenge 2025  
 
 Role: System Developer & ML Contributor  
 - Developed an environmental black carbon monitoring system.
@@ -79,7 +79,7 @@ Role: System Developer & ML Contributor
 
 ---
 
-### 🌱 Smart Greenhouse Monitoring System
+### Smart Greenhouse Monitoring System
 Role: Developer  
 - Designed an IoT-based monitoring system.
 - Integrated sensors for:
@@ -90,7 +90,7 @@ Role: Developer
 
 ---
 
-### 📈 Financial Mathematics & Modelling Projects
+###  Financial Mathematics & Modelling Projects
 - Implemented Geometric Brownian Motion models.
 - Applied stochastic processes in financial modelling.
 - Built computational simulations in Python.
@@ -128,7 +128,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 - Mathematics Outreach Volunteer (2024 & 2025)
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - Email: manolavhelani@gmail.com /4165489@myuwc.ac.za
-- LinkedIn: (Add your LinkedIn profile link)
+- LinkedIn: 
