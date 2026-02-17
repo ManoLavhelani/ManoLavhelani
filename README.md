@@ -2,35 +2,64 @@
 
 ## A. Personal Introduction
 
-I am a BSc Computer Science Honours student at the University of the Western Cape (UWC). I completed my undergraduate degree in 2025 and am currently pursuing advanced academic and research work in computing.
+## A. Personal Introduction
 
-I am particularly passionate about Artificial Intelligence, Internet of Things (IoT), Cybersecurity, and Mathematical Modelling. I enjoy building intelligent systems and designing secure, data-driven solutions that address real-world problems.
-
-My career goal is to work in advanced software engineering and AI-driven systems, with a strong focus on secure and scalable technologies.
+I am a BSc Computer Science Honours student at the University of the Western Cape, having completed my undergraduate degree in 2025.
+I am an aspiring software developer with strong foundations in Java, Python, and C, eager to apply my technical skills to real-world systems and impactful projects. I am motivated by continuous learning, research-driven problem solving, and collaborative teamwork.
+With experience in academic tutoring (including MAT212 & MAM115) and leadership roles within university societies, I have developed strong communication, organisational, and analytical skills.
+I am particularly passionate about software design, Internet of Things (IoT), cybersecurity, robotics, and emerging technologies, and I aim to contribute innovative ideas and dedication within dynamic and forward-thinking environments.
+My career goal is to build innovative, secure, and scalable software systems that combine intelligent technologies with practical real-world impact.
 
 ---
 
 ## B. Education
 
-**University of the Western Cape (UWC)**  
-BSc Computer Science (Completed 2025)  
-BSc Computer Science Honours (Current)
+### BSc Computer Science Honours (Current)
+University of the Western Cape, South Africa  
 
-Key Areas of Study:
-- Artificial Intelligence
+Focus Areas:
+- Internet of Things (IoT)
+- Immersive Technologies
+- Advanced Software Engineering
+- Systems Design
+- Research & Technical Writing
+
+---
+
+### BSc Computer Science
+University of the Western Cape, South Africa  
+
+Date of Commencement: 12 March 2021  
+Date of Completion: 20 November 2025  
+
+Coursework:
+- Introduction to Artificial Intelligence
+- Machine Learning
+- Object-Oriented Programming
+- Computer Architecture
+- Operating Systems
+- Databases
+- Software Engineering
+- Computer Networking
 - Software Engineering
 - Data Structures & Algorithms
 - Financial Mathematics
 - Stochastic Processes
 - Machine Learning
 - Systems Design
-- Cybersecurity Fundamentals
+- Mathematical Modelling
+-  Introduction to Databases
+---
 
+### National Senior Certificate (Matric – Bachelor’s Pass)
+BASA Combined School  
+
+Year Completed: 2019
 ---
 
 ## C. Skills & Interests
 
-### 🔧 Technical Skills
+###  Technical Skills
 - Python
 - Java
 - C
@@ -55,6 +84,8 @@ Key Areas of Study:
 - Problem solving
 - Team collaboration
 - Academic tutoring (Mathematics & Physics)
+- Good Communication
+- Leadership 
 
 ---
 
@@ -90,11 +121,29 @@ Role: Developer
 
 ---
 
-###  Financial Mathematics & Modelling Projects
-- Implemented Geometric Brownian Motion models.
-- Applied stochastic processes in financial modelling.
-- Built computational simulations in Python.
-- Completed advanced modelling research projects.
+###  Epidemiological Modelling Research (MAT312)
+
+Title:
+A Modified SIR Model Incorporating Vaccination and Dual Infectious Classes for Detectable and Undetectable Syndromes
+
+- Developed an extended SIR epidemiological model.
+- Incorporated vaccination dynamics into disease spread modelling.
+- Introduced dual infectious classes (detectable and undetectable cases).
+- Applied mathematical modelling and differential equation analysis.
+- Conducted computational simulations for model validation.
+
+---
+
+###  Financial Modelling Research (MAT322)
+
+Title:
+Impact of Two Methods for Estimating Volatility in Option Pricing
+
+- Investigated volatility estimation techniques in financial markets.
+- Compared two different methods used in option pricing models.
+- Applied stochastic modelling principles.
+- Analysed the impact of volatility assumptions on pricing accuracy.
+- Implemented computational simulations for evaluation.
 
 ---
 
@@ -120,6 +169,11 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 - Emerging Leaders Programme (ELP) – 2024
 - Advanced Leaders Programme (ALP) – 2025
 
+### Leadership Positions
+
+- Treasurer – UWC Physics Society (2024 – 2025)
+- President – Limpopo Society, UWC (2024 – 2025)
+
 ### Volunteering & Outreach (2024 – Current)
 
 - Cape Flats Nature Reserve Volunteer (2024 – Current)
@@ -131,4 +185,4 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945614
 ##  Connect With Me
 
 - Email: manolavhelani@gmail.com /4165489@myuwc.ac.za
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/lavhelani-mano-50aa651a9
